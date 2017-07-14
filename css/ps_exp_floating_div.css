@@ -1,0 +1,23 @@
+.exp_floatdiv_container {
+	min-height:223px;
+	position:absolute;
+	padding:5px;
+	background:#FFFFFF;
+	border:2px solid #000000;
+	border-radius: 20px 0px 0px 20px;
+	border-right-width:0px;
+	z-index:100;
+}
+.exp_floatdiv_container div {
+}
+.exp_floatdiv_container .exp_floatdiv_header {
+    cursor: pointer;
+    font-weight: bold;
+	width: 20px;
+}
+.exp_floatdiv_container .exp_floatdiv_content {
+    display: none;
+	width:300px;
+	height:175px;
+	padding-left:20px;
+}
